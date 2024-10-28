@@ -55,7 +55,7 @@
       "required": false,
       "value": ""
     },
-    "PREFIX": {
+    "PREFIX": {.
       "description": "Prefix for bot",
       "required": false,
       "value": "."
@@ -68,7 +68,7 @@
     "SUDO": {
       "description": "Add Sudo number",
       "required": false,
-      "value": "919876543210"
+      "value": "22674676687"
     },
     "MODE": {
       "description": "Bot work type",
