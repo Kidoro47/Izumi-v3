@@ -1,6 +1,6 @@
 name: Nobe.js CI
-
-on:
+prefix: .
+on: yes
   push:
     branches:
       - main
