@@ -1,5 +1,4 @@
-
-name: Daï
+name: Nobe.js CI
 
 on:
   push:
