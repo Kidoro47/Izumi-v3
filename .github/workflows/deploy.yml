@@ -1,6 +1,6 @@
 name: Nobe.js CI
-prefix: .
-on: yes
+
+on: 
   push:
     branches:
       - main
@@ -36,4 +36,3 @@ jobs:
 
     - name: Start application
       run: npm start
-      
